@@ -1,0 +1,22 @@
+{
+  "author": "igorlogius",
+  "homepage_url": "https://github.com/igorlogius",
+  "description": "Translation addon that requires minimal permisisons that allows translation of selected text and also includes a translation history",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_area": "navbar"
+  },
+  "sidebar_action": {
+    "default_icon": "icon.png",
+    "default_panel": "sidebar.html"
+  },
+  "icons": {
+    "64": "icon.png"
+  },
+  "manifest_version": 2,
+  "name": "Side Translate",
+  "permissions": ["storage", "menus", "unlimitedStorage"],
+  "version": "1.0.0"
+}

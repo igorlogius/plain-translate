@@ -2,6 +2,7 @@ Translation addon that requires minimal permissions that allows translation of s
 
 <b>Short Demo Video</b>
 
+https://github.com/igorlogius/side-translate/assets/67047467/55f6dfc4-f587-417d-9a9d-257af18882a2
 
 <b>Usage:</b>
 <ol>

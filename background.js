@@ -26,8 +26,10 @@ browser.menus.create({
   onclick: async (info /*,tab*/) => {
     setPanel();
     browser.sidebarAction.open();
-    const text = info.selectionText.trim();
-    retrySend(text, 20);
+    setTimeout(() => {
+      const text = info.selectionText.trim();
+      retrySend(text, 20);
+    }, 1000);
   },
 });
 

@@ -42,6 +42,8 @@ async function onLoad() {
   };
   doTrans.addEventListener("click", doTranslate);
 
+  clearHistoryBtn.addEventListener("click", clearHistory);
+
   history = await getFromStorage("object", "history", []);
 
   for (const h of history) {
@@ -110,4 +112,3 @@ function clearHistory() {
 
 browser.runtime.onMessage.addListener(onMessage);
 document.addEventListener("DOMContentLoaded", onLoad);
-clearHistoryBtn.addEventListener("click", clearHistory);

@@ -1,5 +1,7 @@
 Translation addon that requires minimal permissions that allows translation of selected text and also includes a translation history
 
+[![](https://raw.githubusercontent.com/igorlogius/igorlogius/main/geFxAddon.png)](https://addons.mozilla.org/firefox/addon/side-translate/)
+
 ### [Click here to report a bug, make a suggestion or ask a question](https://github.com/igorlogius/igorlogius/issues/new/choose)
 
 <b>Short Demo Video</b>

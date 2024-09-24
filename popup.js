@@ -32,13 +32,19 @@ async function onLoad() {
   try {
     const ret = await browser.tabs.executeScript({
       code: `(() => {
-            return getSelection().toString();
+            return getSelection().toString().replaceAll(/\s+/g," ").trim();
     })();`,
     });
     txta_inputText.value = ret[0];
   } catch (e) {}
 
   textAreaAdjust(txta_inputText);
+
+  if (txta_inputText.value.trim() === "") {
+    txta_inputText.focus();
+  } else {
+    txta_outputText.focus();
+  }
 
   let tmp = await fetch(burl + "l?client=gtx");
   tmp = (await tmp.json()).tl;
@@ -56,7 +62,7 @@ async function onLoad() {
 
 async function doTranslate() {
   doTrans.setAttribute("disabled", true);
-  const text = txta_inputText.value.trim();
+  const text = txta_inputText.value.replace(/\s+/g, " ").trim();
 
   // get text from textarea
   if (text === lastText && select.value === lastLang) {

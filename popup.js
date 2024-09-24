@@ -1,13 +1,20 @@
 /* global browser */
 
+function textAreaAdjust(element) {
+  element.style.height = "1px";
+  element.style.height = 25 + element.scrollHeight + "px";
+}
+
 const burl = "https://translate.googleapis.com/translate_a/";
 const select = document.getElementById("language");
-const translated_text = document.getElementById("text");
-const txt2trans = document.getElementById("text2translate");
+const txta_outputText = document.getElementById("text");
+const txta_inputText = document.getElementById("text2translate");
 const doTrans = document.getElementById("doTranslate");
 
 let lastText = "";
 let lastLang = "";
+
+doTrans.addEventListener("click", doTranslate);
 
 async function getFromStorage(type, id, fallback) {
   const tmp = await browser.storage.local.get(id);
@@ -22,13 +29,16 @@ async function setToStorage(id, value) {
 
 async function onLoad() {
   // get selected Text from active Tab
-  const ret = await browser.tabs.executeScript({
-    code: `(() => {
+  try {
+    const ret = await browser.tabs.executeScript({
+      code: `(() => {
             return getSelection().toString();
     })();`,
-  });
+    });
+    txta_inputText.value = ret[0];
+  } catch (e) {}
 
-  txt2trans.value = ret[0];
+  textAreaAdjust(txta_inputText);
 
   let tmp = await fetch(burl + "l?client=gtx");
   tmp = (await tmp.json()).tl;
@@ -45,10 +55,12 @@ async function onLoad() {
 }
 
 async function doTranslate() {
-  const text = txt2trans.value.trim();
+  doTrans.setAttribute("disabled", true);
+  const text = txta_inputText.value.trim();
 
   // get text from textarea
   if (text === lastText && select.value === lastLang) {
+    doTrans.removeAttribute("disabled");
     return;
   }
 
@@ -73,13 +85,15 @@ async function doTranslate() {
   } catch (e) {
     tmp = "Error: " + e;
   }
-  translated_text.innerText = tmp;
+  txta_outputText.value = tmp;
+  textAreaAdjust(txta_outputText);
+  doTrans.removeAttribute("disabled");
 }
 
 document.addEventListener("DOMContentLoaded", onLoad);
 
 document.addEventListener("keypress", function (e) {
-  if (e.key === "Enter") {
-    doTranslate();
+  if (e.key === "Enter" && e.getModifierState("Control")) {
+    doTrans.click();
   }
 });

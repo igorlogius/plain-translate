@@ -9,12 +9,9 @@ const burl = "https://translate.googleapis.com/translate_a/";
 const select = document.getElementById("language");
 const txta_outputText = document.getElementById("text");
 const txta_inputText = document.getElementById("text2translate");
-const doTrans = document.getElementById("doTranslate");
 
 let lastText = "";
 let lastLang = "";
-
-doTrans.addEventListener("click", doTranslate);
 
 async function getFromStorage(type, id, fallback) {
   const tmp = await browser.storage.local.get(id);
@@ -45,13 +42,10 @@ async function onLoad() {
   } else {
     txta_outputText.focus();
   }
+  const languages = await getFromStorage("object", "languages", null);
 
-  let tmp = await fetch(burl + "l?client=gtx");
-  tmp = (await tmp.json()).tl;
-  for (const k of Object.keys(tmp).sort((a, b) =>
-    tmp[a].localeCompare(tmp[b]),
-  )) {
-    select.add(new Option(tmp[k], k));
+  for (const [k, v] of languages) {
+    select.add(new Option(k, v));
   }
   select.value = await getFromStorage("string", "language", "en");
   select.onchange = () => {
@@ -61,12 +55,10 @@ async function onLoad() {
 }
 
 async function doTranslate() {
-  doTrans.setAttribute("disabled", true);
   const text = txta_inputText.value.replace(/\s+/g, " ").trim();
 
   // get text from textarea
   if (text === lastText && select.value === lastLang) {
-    doTrans.removeAttribute("disabled");
     return;
   }
 
@@ -93,13 +85,8 @@ async function doTranslate() {
   }
   txta_outputText.value = tmp;
   textAreaAdjust(txta_outputText);
-  doTrans.removeAttribute("disabled");
 }
 
 document.addEventListener("DOMContentLoaded", onLoad);
 
-document.addEventListener("keypress", function (e) {
-  if (e.key === "Enter" && e.getModifierState("Control")) {
-    doTrans.click();
-  }
-});
+setInterval(doTranslate, 500);

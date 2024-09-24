@@ -1,33 +1,38 @@
-<!DOCTYPE html>
+<!doctype html>
 <head>
   <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
   <style>
     body {
+      padding: 3px;
       background-color: lightgray;
+      min-height: 5em;
     }
     #text2translate {
       width: 100%;
-      height: 15vh;
+      height: 4em;
     }
     div {
       user-select: text;
     }
+    #language,
+    #doTranslate {
+      width: 25%;
+      text-align: center;
+    }
   </style>
 </head>
 <body>
-  <span id="notice"> </span>
   <fieldset>
-    <label for="language" style="padding-right: 20px">Translate into:</label>
+    <textarea
+      id="text2translate"
+      placeholder="Enter text to translate here"
+    ></textarea>
+    <button id="doTranslate">Translate</button>
+    to
     <select id="language"></select>
   </fieldset>
   <fieldset>
-    <textarea id="text2translate"></textarea>
-    <button id="doTranslate">Translate</button>
-  </fieldset>
-  <fieldset>
-    History
-    <button id="clearHistoryBtn">Clear</button>
     <div id="text"></div>
   </fieldset>
-  <script src="sidebar.js"></script>
+  <script src="popup.js"></script>
 </body>

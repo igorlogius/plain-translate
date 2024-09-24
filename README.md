@@ -1,4 +1,4 @@
-Translation addon that requires minimal permissions that allows translation of selected text and also includes a translation history
+Translation addon that requires minimal permissions that allows translation of selected text
 
 [![](https://raw.githubusercontent.com/igorlogius/igorlogius/main/geFxAddon.png)](https://addons.mozilla.org/firefox/addon/side-translate/)
 
@@ -6,11 +6,10 @@ Translation addon that requires minimal permissions that allows translation of s
 
 <b>Short Demo Video</b>
 
-https://github.com/igorlogius/side-translate/assets/67047467/55f6dfc4-f587-417d-9a9d-257af18882a2
+tbd.
 
 <b>Usage:</b>
 <ol>
-	<li>install the add-on </li>
-	<li>select some text on a website and use the context menu to translate it</li>
-	<li>or use the sidebar as a standalone translator</li>
+	<li>select some text on a website and use the context menu or the addon shortcut to translate it</li>
+	<li>you can also use the toolbar popup as a standalone translator</li>
 </ol>

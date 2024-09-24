@@ -1,22 +1,23 @@
 {
   "author": "igorlogius",
-  "homepage_url": "https://github.com/igorlogius",
-  "description": "Translation addon that requires minimal permisisons that allows translation of selected text and also includes a translation history",
+  "homepage_url": "https://github.com/igorlogius/fast-translate",
+  "description": "Translation addon that requires minimal permisisons that allows translation of selected text",
   "background": {
     "scripts": ["background.js"]
   },
   "browser_action": {
-    "default_area": "navbar"
+    "default_area": "navbar",
+    "default_popup": "popup.html"
   },
-  "sidebar_action": {
-    "default_icon": "icon.png",
-    "default_panel": "sidebar.html"
+  "commands": {
+    "_execute_browser_action": {}
   },
+
   "icons": {
     "64": "icon.png"
   },
   "manifest_version": 2,
-  "name": "Side Translate",
-  "permissions": ["storage", "menus", "unlimitedStorage"],
-  "version": "1.0.1"
+  "name": "Fast Translate",
+  "permissions": ["activeTab", "menus", "storage"],
+  "version": "2.0.1"
 }

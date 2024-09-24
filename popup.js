@@ -24,36 +24,6 @@ async function setToStorage(id, value) {
   return browser.storage.local.set(obj);
 }
 
-async function onLoad() {
-  // get selected Text from active Tab
-  try {
-    const ret = await browser.tabs.executeScript({
-      code: `(() => {
-            return getSelection().toString().replaceAll(/\s+/g," ").trim();
-    })();`,
-    });
-    txta_inputText.value = ret[0];
-  } catch (e) {}
-
-  textAreaAdjust(txta_inputText);
-
-  if (txta_inputText.value.trim() === "") {
-    txta_inputText.focus();
-  } else {
-    txta_outputText.focus();
-  }
-  const languages = await getFromStorage("object", "languages", null);
-
-  for (const [k, v] of languages) {
-    select.add(new Option(k, v));
-  }
-  select.value = await getFromStorage("string", "language", "en");
-  select.onchange = () => {
-    browser.storage.local.set({ language: select.value });
-  };
-  doTranslate();
-}
-
 async function doTranslate() {
   const text = txta_inputText.value.replace(/\s+/g, " ").trim();
 
@@ -81,12 +51,46 @@ async function doTranslate() {
     tmp = await tmp.json();
     tmp = tmp.sentences.map((s) => s.trans).join("");
   } catch (e) {
-    tmp = "Error: " + e;
+    console.error(e);
   }
   txta_outputText.value = tmp;
   textAreaAdjust(txta_outputText);
 }
 
-document.addEventListener("DOMContentLoaded", onLoad);
+async function onLoad() {
+  // get selected Text from active Tab
+  try {
+    const ret = await browser.tabs.executeScript({
+      code: `(() => {
+            try {
+                return getSelection().toString().replaceAll(/\s+/g," ").trim();
+            }catch(e){
+                return "";
+            }
+    })();`,
+    });
+    txta_inputText.value = ret[0];
+  } catch (e) {
+    console.error(e);
+  }
 
-setInterval(doTranslate, 500);
+  textAreaAdjust(txta_inputText);
+
+  if (txta_inputText.value.trim() === "") {
+    txta_inputText.focus();
+  } else {
+    txta_outputText.focus();
+  }
+  const languages = await getFromStorage("object", "languages", new Map());
+
+  for (const [k, v] of languages) {
+    select.add(new Option(k, v));
+  }
+  select.value = await getFromStorage("string", "language", "en");
+  select.onchange = () => {
+    browser.storage.local.set({ language: select.value });
+  };
+  setInterval(doTranslate, 500);
+}
+
+document.addEventListener("DOMContentLoaded", onLoad);

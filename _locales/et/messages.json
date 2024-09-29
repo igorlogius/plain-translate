@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kiire tõlge",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Tõlkelisand, mis nõuab valitud teksti tõlkimiseks minimaalseid õigusi",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Sisestage tõlgitav tekst siia",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "keelde tõlkida",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Siin kuvatakse tõlgitud tekst",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Siin kuvatakse tõlgitud tekst",
+    "description": ""
+  }
+}

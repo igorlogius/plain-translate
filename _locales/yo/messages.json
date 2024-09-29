@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Tumọ Yara",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addoni itumọ ti o nilo awọn igbanilaaye iwonba fun itumọ ọrọ ti o yan",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Tẹ ọrọ sii lati tumọ nibi",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "tumọ si",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Ọrọ ti a tumọ yoo han nibi",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Ọrọ ti a tumọ yoo han nibi",
+    "description": ""
+  }
+}

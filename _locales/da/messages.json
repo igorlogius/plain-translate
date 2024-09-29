@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Hurtig oversættelse",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Oversættelsestilføjelse, der kræver minimale tilladelser til oversættelse af valgt tekst",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Indtast tekst for at oversætte her",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "oversætte til",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Oversat tekst vises her",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Oversat tekst vises her",
+    "description": ""
+  }
+}

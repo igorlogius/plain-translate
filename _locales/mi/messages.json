@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Whakamaori Tere",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "He taapiri whakamaori me iti noa nga whakaaetanga mo te whakamaoritanga o nga kuputuhi kua tohua",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Whakauruhia he kupu hei whakamaori ki konei",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "whakamaori ki",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Ka puta mai nga kupu whakamaori ki konei",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Ka puta mai nga kupu whakamaori ki konei",
+    "description": ""
+  }
+}

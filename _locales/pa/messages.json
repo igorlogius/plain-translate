@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ਤੇਜ਼ ਅਨੁਵਾਦ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ਅਨੁਵਾਦ ਐਡਆਨ ਜਿਸ ਲਈ ਚੁਣੇ ਗਏ ਟੈਕਸਟ ਦੇ ਅਨੁਵਾਦ ਲਈ ਘੱਟੋ-ਘੱਟ ਅਨੁਮਤੀਆਂ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "ਇੱਥੇ ਅਨੁਵਾਦ ਕਰਨ ਲਈ ਟੈਕਸਟ ਦਰਜ ਕਰੋ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "ਅਨੁਵਾਦਿਤ ਟੈਕਸਟ ਇੱਥੇ ਦਿਖਾਈ ਦੇਵੇਗਾ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "ਅਨੁਵਾਦਿਤ ਟੈਕਸਟ ਇੱਥੇ ਦਿਖਾਈ ਦੇਵੇਗਾ",
+    "description": ""
+  }
+}

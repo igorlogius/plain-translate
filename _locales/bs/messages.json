@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Fast Translate",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Dodatak za prevođenje koji zahtijeva minimalne dozvole za prijevod odabranog teksta",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Ovdje unesite tekst za prevođenje",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "prevedi na",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Ovdje će se pojaviti prevedeni tekst",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Ovdje će se pojaviti prevedeni tekst",
+    "description": ""
+  }
+}

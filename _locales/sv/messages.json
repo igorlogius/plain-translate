@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Snabböversättning",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Översättningstillägg som kräver minimala behörigheter för översättning av vald text",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Skriv in text för att översätta här",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "översätta till",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Översatt text kommer att visas här",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Översatt text kommer att visas här",
+    "description": ""
+  }
+}

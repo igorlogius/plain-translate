@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Ātrais tulkojums",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Tulkošanas papildinājums, kam nepieciešamas minimālas atļaujas atlasītā teksta tulkošanai",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Šeit ievadiet tulkojamo tekstu",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "tulkot uz",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Šeit tiks parādīts tulkots teksts",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Šeit tiks parādīts tulkots teksts",
+    "description": ""
+  }
+}

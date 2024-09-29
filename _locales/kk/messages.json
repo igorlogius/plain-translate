@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Жылдам аударма",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Таңдалған мәтінді аудару үшін ең аз рұқсаттарды қажет ететін аударма қосымшасы",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Аударылатын мәтінді осы жерге енгізіңіз",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "аударыңыз",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Аударылған мәтін осы жерде пайда болады",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Аударылған мәтін осы жерде пайда болады",
+    "description": ""
+  }
+}

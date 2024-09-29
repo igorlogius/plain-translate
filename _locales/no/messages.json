@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Rask oversettelse",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Oversettelsestillegg som krever minimale tillatelser for oversettelse av valgt tekst",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Skriv inn tekst for å oversette her",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "oversette til",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Oversatt tekst vil vises her",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Oversatt tekst vil vises her",
+    "description": ""
+  }
+}

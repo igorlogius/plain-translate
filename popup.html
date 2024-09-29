@@ -3,35 +3,61 @@
   <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
   <style>
     body {
-      padding: 3px;
       background-color: lightgray;
+      max-height: 45em;
+      width: 35em;
     }
     textarea {
+      padding: 0;
       width: 100%;
       resize: vertical; /* user can resize vertically, but width is fixed */
+    }
+    #txta_out {
+      min-height: 10em;
+      max-height: 20em;
+    }
+    #txta_in {
+      min-height: 10em;
       max-height: 20em;
     }
     div {
       user-select: text;
     }
-    #language
-      width: 25%;
+    #selected_language {
       text-align: center;
-      float:right;
     }
   </style>
 </head>
 <body>
   <fieldset>
     <textarea
-      id="text2translate"
+      spellcheck="false"
+      autocomplete="off"
+      autocapitalize="off"
+      cols="40"
+      rows="3"
+      wrap="hard"
+      id="txta_in"
       placeholder="Enter text to translate here"
     ></textarea>
-    translate to
-    <select id="language"></select>
   </fieldset>
   <fieldset>
-    <textarea id="text"></textarea>
+        <center>
+        <span id="selected_language_label">translate to</span>
+        <select id="selected_language"></select>
+        </center>
   </fieldset>
+  <fieldset>
+    <textarea
+      autocapitalize="off"
+      autocomplete="off"
+      spellcheck="false"
+      cols="40"
+      rows="3"
+      wrap="hard"
+      id="txta_out"
+      placeholder="Translated text will appear here"
+    ></textarea>
+  <fieldset>
   <script src="popup.js"></script>
 </body>

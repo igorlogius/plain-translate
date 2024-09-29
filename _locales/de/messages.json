@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Schnelle Übersetzung",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Übersetzungs-Add-on, das minimale Berechtigungen für die Übersetzung des ausgewählten Textes erfordert",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Geben Sie hier den zu übersetzenden Text ein",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "übersetzen zu",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Hier erscheint der übersetzte Text",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Hier erscheint der übersetzte Text",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Sürətli Tərcümə",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Seçilmiş mətnin tərcüməsi üçün minimal icazə tələb edən tərcümə əlavəsi",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Tərcümə etmək üçün mətni buraya daxil edin",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "-a tərcümə edin",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Tərcümə edilmiş mətn burada görünəcək",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Tərcümə edilmiş mətn burada görünəcək",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": " ﮧﻤﺟﺮﺗ ﺮﺗ ﺰﯿﺗ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "۔ﮯﮨ ﯽﺗﻮﮨ ﺕﺭﻭﺮﺿ ﯽﮐ ﮞﻮﺗﺯﺎﺟﺍ ﻢﮐ ﮯﺳ ﻢﮐ ﮯﯿﻟ ﮯﮐ ﮯﻤﺟﺮﺗ ﮯﮐ ﻦﺘﻣ ﺐﺨﺘﻨﻣ ﮟﯿﻣ ﺲﺟ ﻥﻭﮉﯾﺍ ﮧﻤﺟﺮ",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": " ۔ﮟﯾﺮﮐ ﺝﺭﺩ ﻦﺘﻣ ﮯﯿﻟ ﮯﮐ ﮯﻧﺮﮐ ﮧﻤﺟﺮﺗ ﮞﺎﮩﯾ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": " ﮟﯾﺮﮐ ﮧﻤﺟﺮﺗ ﮟﯿﻣ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": " ۔ﺎﮔﻮﮨ ﺮﮨﺎﻇ ﮞﺎﮩﯾ ﻦﺘﻣ ﮦﺪﺷ ﮧﻤﺟﺮﺗ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": " ۔ﺎﮔﻮﮨ ﺮﮨﺎﻇ ﮞﺎﮩﯾ ﻦﺘﻣ ﮦﺪﺷ ﮧﻤﺟﺮﺗ",
+    "description": ""
+  }
+}

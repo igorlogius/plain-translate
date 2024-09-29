@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Nopea käännös",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Käännöslisäosa, joka vaatii vähimmäisoikeudet valitun tekstin kääntämiseen",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Kirjoita käännettävä teksti tähän",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "kääntää kielelle",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Käännetty teksti näkyy täällä",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Käännetty teksti näkyy täällä",
+    "description": ""
+  }
+}

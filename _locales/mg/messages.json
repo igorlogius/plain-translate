@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Dikanteny haingana",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addon fandikan-teny izay mitaky fahazoan-dàlana kely indrindra amin'ny fandikana lahatsoratra voafantina",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Ampidiro lahatsoratra hadika eto",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "adika amin'ny",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Hiseho eto ny lahatsoratra nadika",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Hiseho eto ny lahatsoratra nadika",
+    "description": ""
+  }
+}

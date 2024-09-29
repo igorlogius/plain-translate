@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Hızlı Çeviri",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Seçilen metnin çevirisi için minimum izin gerektiren çeviri eklentisi",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Çevrilecek metni buraya girin",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "tercüme etmek",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Çevrilmiş metin burada görünecek",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Çevrilmiş metin burada görünecek",
+    "description": ""
+  }
+}

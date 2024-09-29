@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Greitas vertimas",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Vertimo priedas, kuriam reikia minimalių leidimų versti pasirinktą tekstą",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Čia įveskite tekstą, kurį norite išversti",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "išversti į",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Išverstas tekstas bus rodomas čia",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Išverstas tekstas bus rodomas čia",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "სწრაფი თარგმნა",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "თარგმანის დამატება, რომელიც საჭიროებს მინიმალურ ნებართვებს შერჩეული ტექსტის თარგმნისთვის",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "აქ შეიყვანეთ სათარგმნი ტექსტი",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "თარგმნა",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "ნათარგმნი ტექსტი გამოჩნდება აქ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "ნათარგმნი ტექსტი გამოჩნდება აქ",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Cyfieithu Cyflym",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addon cyfieithu sy'n gofyn am ychydig iawn o ganiatadau ar gyfer cyfieithu testun dethol",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Rhowch destun i'w gyfieithu yma",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "cyfieithu i",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Bydd testun wedi'i gyfieithu yn ymddangos yma",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Bydd testun wedi'i gyfieithu yn ymddangos yma",
+    "description": ""
+  }
+}

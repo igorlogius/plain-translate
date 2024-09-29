@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "जलद भाषांतर",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "निवडलेल्या मजकुराच्या भाषांतरासाठी किमान परवानग्या आवश्यक असलेले भाषांतर ॲडऑन",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "येथे भाषांतर करण्यासाठी मजकूर प्रविष्ट करा",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "मध्ये भाषांतर करा",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "अनुवादित मजकूर येथे दिसेल",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "अनुवादित मजकूर येथे दिसेल",
+    "description": ""
+  }
+}

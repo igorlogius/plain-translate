@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Fast Werger",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Pêveka wergerê ya ku ji bo wergerandina nivîsa hilbijartî destûrên herî kêm hewce dike",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Ji bo wergerandinê li vir nivîsê binivîse",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "wergerîne",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Nivîsa wergerandî dê li vir xuya bibe",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Nivîsa wergerandî dê li vir xuya bibe",
+    "description": ""
+  }
+}

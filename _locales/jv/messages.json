@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Cepet Translate",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addon terjemahan sing mbutuhake ijin minimal kanggo terjemahan teks sing dipilih",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Ketik teks kanggo nerjemahake ing kene",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "nerjemahake menyang",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Teks terjemahan bakal katon ing kene",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Teks terjemahan bakal katon ing kene",
+    "description": ""
+  }
+}

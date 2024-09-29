@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Ukuguqulela ngokukhawuleza",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Iaddon yoguqulelo efuna imvume encinci yokuguqulela umbhalo okhethiweyo",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Faka umbhalo oza kuwuguqulela apha",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "guqulela ku",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Umbhalo oguquliweyo uzakuvela apha",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Umbhalo oguquliweyo uzakuvela apha",
+    "description": ""
+  }
+}

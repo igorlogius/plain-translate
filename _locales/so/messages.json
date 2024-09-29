@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Degdeg u Turjum",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Turjumaada addon oo u baahan ogolaanshaha ugu yar ee tarjumaada qoraalka la doortay",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Geli qoraal si aad u turjunto halkan",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "u turjun",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Qoraal la turjumay ayaa halkan ka muuqan doona",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Qoraal la turjumay ayaa halkan ka muuqan doona",
+    "description": ""
+  }
+}

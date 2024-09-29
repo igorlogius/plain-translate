@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Liliu ʻAukai",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Liliu addon ʻoku fie maʻu ki ai ha ngaahi fakangofua siʻisiʻi ki hono liliu ʻo e fakamatala kuo fili",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Fakahū ʻa e fakamatalá ke liliu heni",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "liliu ki he",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "ʻE ʻasi heni ʻa e fakamatala kuo liliú",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "ʻE ʻasi heni ʻa e fakamatala kuo liliú",
+    "description": ""
+  }
+}

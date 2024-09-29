@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Ntụgharị asụsụ ngwa ngwa",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addon ntụgharị asụsụ nke chọrọ ikike pere mpe maka ntụgharị ederede ahọpụtara",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Tinye ederede iji tụgharịa asụsụ ebe a",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "sụgharịa ka",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Ederede atụgharịrị ga-apụta ebe a",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Ederede atụgharịrị ga-apụta ebe a",
+    "description": ""
+  }
+}

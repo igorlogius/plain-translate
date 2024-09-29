@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "បកប្រែរហ័ស",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ការបកប្រែ addon ដែលទាមទារការអនុញ្ញាតតិចតួចបំផុតសម្រាប់ការបកប្រែអត្ថបទដែលបានជ្រើសរើស",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "បញ្ចូលអត្ថបទដើម្បីបកប្រែនៅទីនេះ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "បកប្រែទៅ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "អត្ថបទដែលបានបកប្រែនឹងបង្ហាញនៅទីនេះ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "អត្ថបទដែលបានបកប្រែនឹងបង្ហាញនៅទីនេះ",
+    "description": ""
+  }
+}

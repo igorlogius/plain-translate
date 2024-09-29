@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Saurin Fassara",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addon fassarar da ke buƙatar izini kaɗan don fassarar zaɓin rubutu",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Shigar da rubutu don fassara anan",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "fassara zuwa",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Rubutun da aka fassara zai bayyana a nan",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Rubutun da aka fassara zai bayyana a nan",
+    "description": ""
+  }
+}

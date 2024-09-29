@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ፈጣን ትርጉም",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ለተመረጠው ጽሑፍ ትርጉም አነስተኛ ፍቃዶችን የሚፈልግ የትርጉም addon",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "እዚህ ለመተርጎም ጽሑፍ ያስገቡ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "መተርጎም ወደ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "የተተረጎመ ጽሑፍ እዚህ ይታያል",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "የተተረጎመ ጽሑፍ እዚህ ይታያል",
+    "description": ""
+  }
+}

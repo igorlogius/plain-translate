@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Быстрый перевод",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Аддон для перевода, требующий минимальных разрешений для перевода выделенного текста.",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Введите текст для перевода здесь",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "перевести на",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Переведенный текст появится здесь",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Переведенный текст появится здесь",
+    "description": ""
+  }
+}

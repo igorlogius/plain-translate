@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Humusha Ngokushesha",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "I-addon yokuhumusha edinga izimvume ezincane zokuhumusha umbhalo okhethiwe",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Faka umbhalo ozowuhumusha lapha",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "humushela ku",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Umbhalo ohunyushiwe uzovela lapha",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Umbhalo ohunyushiwe uzovela lapha",
+    "description": ""
+  }
+}

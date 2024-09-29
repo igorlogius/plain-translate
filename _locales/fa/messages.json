@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": " ﻊﯾﺮﺳ ﻪﻤﺟﺮﺗ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": " ﺩﺭﺍﺩ ﺯﺎﯿﻧ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﻦﺘﻣ ﻪﻤﺟﺮﺗ ﯼﺍﺮﺑ ﺯﻮﺠﻣ ﻞﻗﺍﺪﺣ ﻪﺑ ﻪﮐ ﻪﻤﺟﺮﺗ ﻪﻧﻭﺰﻓﺍ",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": " ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﺎﺠﻨﯾﺍ ﺭﺩ ﻪﻤﺟﺮﺗ ﯼﺍﺮﺑ ﺍﺭ ﯽﻨﺘﻣ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": " ﻪﺑ ﻪﻤﺟﺮﺗ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": " ﺩﻮﺷ ﯽﻣ ﺮﻫﺎﻇ ﺎﺠﻨﯾﺍ ﺭﺩ ﻩﺪﺷ ﻪﻤﺟﺮﺗ ﻦﺘﻣ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": " ﺩﻮﺷ ﯽﻣ ﺮﻫﺎﻇ ﺎﺠﻨﯾﺍ ﺭﺩ ﻩﺪﺷ ﻪﻤﺟﺮﺗ ﻦﺘﻣ",
+    "description": ""
+  }
+}

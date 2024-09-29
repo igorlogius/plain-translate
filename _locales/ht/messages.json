@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Fast Translate",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addon tradiksyon ki mande otorizasyon minimòm pou tradiksyon tèks chwazi a",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Antre tèks pou tradui isit la",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "tradwi pou",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Tèks tradui ap parèt isit la",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Tèks tradui ap parèt isit la",
+    "description": ""
+  }
+}

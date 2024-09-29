@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Snel vertalen",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Vertaaladd-on die minimale machtigingen vereist voor de vertaling van geselecteerde tekst",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Voer hier de tekst in die u wilt vertalen",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "vertalen naar",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Hier verschijnt de vertaalde tekst",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Hier verschijnt de vertaalde tekst",
+    "description": ""
+  }
+}

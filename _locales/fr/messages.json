@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Traduction rapide",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Module complémentaire de traduction qui nécessite des autorisations minimales pour la traduction du texte sélectionné",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Entrez le texte à traduire ici",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "traduire en",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Le texte traduit apparaîtra ici",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Le texte traduit apparaîtra ici",
+    "description": ""
+  }
+}

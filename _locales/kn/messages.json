@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ವೇಗದ ಅನುವಾದ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ಆಯ್ದ ಪಠ್ಯದ ಅನುವಾದಕ್ಕಾಗಿ ಕನಿಷ್ಠ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿರುವ ಅನುವಾದ ಆಡ್ಆನ್",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "ಇಲ್ಲಿ ಭಾಷಾಂತರಿಸಲು ಪಠ್ಯವನ್ನು ನಮೂದಿಸಿ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "ಗೆ ಅನುವಾದಿಸಿ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "ಅನುವಾದಿತ ಪಠ್ಯವು ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತದೆ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "ಅನುವಾದಿತ ಪಠ್ಯವು ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತದೆ",
+    "description": ""
+  }
+}

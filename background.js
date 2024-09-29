@@ -12,26 +12,19 @@ browser.menus.create({
   },
 });
 
-async function setToStorage(id, value) {
-  let obj = {};
-  obj[id] = value;
-  return browser.storage.local.set(obj);
-}
-
 async function refreshLanguages() {
-  const burl = "https://translate.googleapis.com/translate_a/";
-  let tmp = await fetch(burl + "l?client=gtx");
-  tmp = (await tmp.json()).tl;
-
   let languages = new Map();
-
+  let tmp = await fetch(
+    "https://translate.googleapis.com/translate_a/l?client=gtx",
+  );
+  tmp = (await tmp.json()).tl;
   for (const k of Object.keys(tmp).sort((a, b) =>
     tmp[a].localeCompare(tmp[b]),
   )) {
     languages.set(tmp[k], k);
   }
-
-  setToStorage("languages", languages);
+  let storage = await import("./storage.js");
+  storage.set("languages", languages);
 }
 
 browser.runtime.onStartup.addListener(refreshLanguages);

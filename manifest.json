@@ -1,7 +1,5 @@
 {
   "author": "igorlogius",
-  "homepage_url": "https://github.com/igorlogius/fast-translate",
-  "description": "Translation addon that requires minimal permisisons that allows translation of selected text",
   "background": {
     "scripts": ["background.js"]
   },
@@ -12,12 +10,14 @@
   "commands": {
     "_execute_browser_action": {}
   },
-
+  "default_locale": "en",
+  "description": "__MSG_addonDesc__",
+  "homepage_url": "https://github.com/igorlogius/fast-translate",
   "icons": {
     "64": "icon.png"
   },
   "manifest_version": 2,
-  "name": "Fast Translate",
+  "name": "__MSG_addonName__",
   "permissions": ["activeTab", "menus", "storage"],
-  "version": "2.0.5"
+  "version": "2.1.5"
 }

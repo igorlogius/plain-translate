@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Aistriúchán Gasta",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Breiseán aistriúcháin a éilíonn ceadanna íosta chun téacs roghnaithe a aistriú",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Cuir isteach téacs le haistriú anseo",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "aistrigh go",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Beidh téacs aistrithe le feiceáil anseo",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Beidh téacs aistrithe le feiceáil anseo",
+    "description": ""
+  }
+}

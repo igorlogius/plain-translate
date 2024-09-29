@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Fast Translate",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addon tat-traduzzjoni li jeħtieġ permessi minimi għat-traduzzjoni tat-test magħżul",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Daħħal it-test biex tittraduċi hawn",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "tittraduċi għal",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Test tradott se jidher hawn",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Test tradott se jidher hawn",
+    "description": ""
+  }
+}

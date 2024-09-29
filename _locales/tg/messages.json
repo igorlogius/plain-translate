@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Тарҷумаи зуд",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Иловаи тарҷума, ки барои тарҷумаи матни интихобшуда иҷозати ҳадди ақалро талаб мекунад",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Матнро барои тарҷума дар ин ҷо ворид кунед",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "тарҷума кунед",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Матни тарҷумашуда дар ин ҷо пайдо мешавад",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Матни тарҷумашуда дар ин ҷо пайдо мешавад",
+    "description": ""
+  }
+}

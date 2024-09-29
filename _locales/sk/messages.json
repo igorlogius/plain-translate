@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Rýchly preklad",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Prekladový doplnok, ktorý vyžaduje minimálne povolenia na preklad vybraného textu",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Tu zadajte text na preklad",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "preložiť do",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Tu sa zobrazí preložený text",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Tu sa zobrazí preložený text",
+    "description": ""
+  }
+}

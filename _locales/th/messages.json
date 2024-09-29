@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "แปลอย่างรวดเร็ว",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ส่วนเสริมการแปลที่ต้องการการอนุญาตขั้นต่ำสำหรับการแปลข้อความที่เลือก",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "ป้อนข้อความที่จะแปลที่นี่",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "แปลเป็น",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "ข้อความที่แปลจะปรากฏที่นี่",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "ข้อความที่แปลจะปรากฏที่นี่",
+    "description": ""
+  }
+}

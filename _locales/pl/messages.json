@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Szybkie tłumaczenie",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Dodatek do tłumaczenia, który wymaga minimalnych uprawnień do tłumaczenia wybranego tekstu",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Wpisz tutaj tekst do przetłumaczenia",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "przetłumacz na",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Przetłumaczony tekst pojawi się tutaj",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Przetłumaczony tekst pojawi się tutaj",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Traducere rapidă",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Supliment de traducere care necesită permisiuni minime pentru traducerea textului selectat",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Introdu textul de tradus aici",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "traduce în",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Textul tradus va apărea aici",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Textul tradus va apărea aici",
+    "description": ""
+  }
+}

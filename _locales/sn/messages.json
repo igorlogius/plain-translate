@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Shandura nekukurumidza",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Shanduro yekuwedzera inoda mvumo shoma pakushandura mavara akasarudzwa",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Isa mavara ekushandura pano",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "shandura ku",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Mavara akaturikirwa achaonekwa pano",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Mavara akaturikirwa achaonekwa pano",
+    "description": ""
+  }
+}

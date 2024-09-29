@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Արագ թարգմանել",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Թարգմանական հավելում, որը պահանջում է նվազագույն թույլտվություններ ընտրված տեքստի թարգմանության համար",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Մուտքագրեք տեքստը թարգմանելու համար այստեղ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "թարգմանել",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Թարգմանված տեքստը կհայտնվի այստեղ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Թարգմանված տեքստը կհայտնվի այստեղ",
+    "description": ""
+  }
+}

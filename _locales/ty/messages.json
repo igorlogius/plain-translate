@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Te mau Ô Haapaeraa Maa",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Te mau parau no te iritiraa o te titau i te mau parau faati'a no te iritiraa i te mau papa'iraa i ma'itihia",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Tuu i te parau papa'i no te iriti i ô nei",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "iriti i te",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "E itehia te papai i hurihia i ǒ nei",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "E itehia te papai i hurihia i ǒ nei",
+    "description": ""
+  }
+}

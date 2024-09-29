@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Hitro prevajanje",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Prevajalski dodatek, ki zahteva minimalna dovoljenja za prevod izbranega besedila",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Tukaj vnesite besedilo za prevod",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "prevesti v",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Tu bo prikazano prevedeno besedilo",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Tu bo prikazano prevedeno besedilo",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "விரைவான மொழிபெயர்ப்பு",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "தேர்ந்தெடுக்கப்பட்ட உரையின் மொழிபெயர்ப்புக்கு குறைந்தபட்ச அனுமதிகள் தேவைப்படும் மொழிபெயர்ப்பு addon",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "இங்கே மொழிபெயர்க்க உரையை உள்ளிடவும்",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "என மொழிபெயர்க்கவும்",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "மொழிபெயர்க்கப்பட்ட உரை இங்கே தோன்றும்",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "மொழிபெயர்க்கப்பட்ட உரை இங்கே தோன்றும்",
+    "description": ""
+  }
+}

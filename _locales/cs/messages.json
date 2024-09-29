@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Rychlý překlad",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Překladový doplněk, který vyžaduje minimální oprávnění pro překlad vybraného textu",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Zde zadejte text k překladu",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "přeložit do",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Zde se zobrazí přeložený text",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Zde se zobrazí přeložený text",
+    "description": ""
+  }
+}

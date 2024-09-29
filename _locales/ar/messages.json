@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": " ﺔﻌﻳﺮﺳ ﺔﻤﺟﺮﺗ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": " ﺩﺪﺤﻤﻟﺍ ﺺﻨﻟﺍ ﺔﻤﺟﺮﺘﻟ ﺕﺎﻧﻭﺫﻷ﻿ﺍ ﻦﻣ ﻰﻧﺩﻷ﻿ﺍ ﺪﺤﻟﺍ ﺐﻠﻄﺘﻳ ﻱﺬﻟﺍ ﺔﻤﺟﺮﺘﻟﺍ ﻖﺤﻠﻣ",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": " ﺎﻨﻫ ﻪﺘﻤﺟﺮﺘﻟ ﺺﻨﻟﺍ ﻞﺧﺩﺃ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": " ﻝ ﺔﻤﺟﺮﺗ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": " ﺎﻨﻫ ﻢﺟﺮﺘﻤﻟﺍ ﺺﻨﻟﺍ ﺮﻬﻈﻴﺳ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": " ﺎﻨﻫ ﻢﺟﺮﺘﻤﻟﺍ ﺺﻨﻟﺍ ﺮﻬﻈﻴﺳ",
+    "description": ""
+  }
+}

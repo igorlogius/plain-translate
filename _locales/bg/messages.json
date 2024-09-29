@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Бърз превод",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Добавка за превод, която изисква минимални разрешения за превод на избран текст",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Въведете текст за превод тук",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "превеждам на",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Тук ще се появи преведен текст",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Тук ще се появи преведен текст",
+    "description": ""
+  }
+}

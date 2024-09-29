@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "高速翻訳",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "選択したテキストの翻訳に最小限の権限を必要とする翻訳アドオン",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "ここに翻訳するテキストを入力してください",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "に翻訳する",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "翻訳されたテキストがここに表示されます",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "翻訳されたテキストがここに表示されます",
+    "description": ""
+  }
+}

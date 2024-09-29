@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": " ריהמ םוגרת",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": " רחבנ טסקט םוגרתל תוילמינימ תואשרה שרודה םוגרת ףסות",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": " ןאכ םוגרתל טסקט ןזה",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": " ל םגרתל",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": " ןאכ עיפוי םגרותמ טסקט",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": " ןאכ עיפוי םגרותמ טסקט",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Fast Translate",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Тандалган текстти которуу үчүн минималдуу уруксаттарды талап кылган котормо кошумчасы",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Бул жерге которуу үчүн текстти киргизиңиз",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "которуу",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Которулган текст бул жерде көрүнөт",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Которулган текст бул жерде көрүнөт",
+    "description": ""
+  }
+}

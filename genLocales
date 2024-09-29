@@ -1,0 +1,154 @@
+#!/usr/bin/env bash
+
+mkdir ./_locales
+rm -rf ./_locales/*
+
+while read line;do
+	echo $line
+	mkdir -p ./_locales/$line 2>/dev/null
+
+	addonName=$(trans -brief -from en -to "$line" "Fast Translate")
+	addonDesc=$(trans -brief -from en -to $line "Translation addon that requires minimal permissions for translation of selected text")
+
+	popup_txta_in_placeholder=$(trans -brief -from en -to $line "Enter text to translate here")
+	popup_selected_language_label=$(trans -brief -from en -to $line "translate to")
+	popup_txta_out_placeholder=$(trans -brief -from en -to $line "Translated text will appear here")
+	popup_txta_out_placeholder_wip=$(trans -brief -from en -to $line "please wait translation in progress")
+
+	JSON=$(cat << EOI
+
+{
+  "addonName": {
+    "message": "$addonName",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "$addonDesc",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "$popup_txta_in_placeholder",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "$popup_selected_language_label",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "$popup_txta_out_placeholder",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "$popup_txta_out_placeholder",
+    "description": ""
+  }
+}
+EOI
+)
+
+echo $JSON | jq '.' -r > _locales/$line/messages.json
+
+done << EOH
+	af
+	sq
+	am
+	ar
+	hy
+	az
+	ba
+	eu
+	bn
+	bs
+	bg
+	ca
+	ny
+	co
+	hr
+	cs
+	da
+	nl
+	en
+	eo
+	et
+	fj
+	tl
+	fi
+	fr
+	fy
+	gl
+	ka
+	de
+	el
+	gu
+	ht
+	ha
+	he
+	hi
+	hu
+	is
+	ig
+	id
+	ga
+	it
+	ja
+	jv
+	kn
+	kk
+	km
+	ku
+	ky
+	lo
+	la
+	lv
+	lt
+	lb
+	mk
+	mg
+	ms
+	ml
+	mt
+	mi
+	mr
+	mn
+	my
+	ne
+	no
+	ps
+	fa
+	pl
+	pt
+	pa
+	ro
+	ru
+	sm
+	gd
+	st
+	sn
+	sd
+	si
+	sk
+	sl
+	so
+	es
+	su
+	sw
+	sv
+	ty
+	tg
+	ta
+	tt
+	te
+	th
+	to
+	tr
+	uk
+	ur
+	uz
+	vi
+	cy
+	xh
+	yi
+	yo
+	zu
+EOH
+

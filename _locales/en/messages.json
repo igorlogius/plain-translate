@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Fast Translate",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Translation addon that requires minimal permissions for translation of selected text",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Enter text to translate here",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "translate to",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Translated text will appear here",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Translated text will appear here",
+    "description": ""
+  }
+}

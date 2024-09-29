@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Rapida Traduki",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Traduka aldonaĵo kiu postulas minimumajn permesojn por tradukado de elektita teksto",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Enigu ĉi tie tekston por traduki",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "traduki al",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Tradukita teksto aperos ĉi tie",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Tradukita teksto aperos ĉi tie",
+    "description": ""
+  }
+}

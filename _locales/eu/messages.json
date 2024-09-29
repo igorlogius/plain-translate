@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Itzulpen azkarra",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Hautatutako testua itzultzeko gutxieneko baimenak behar dituen itzulpen gehigarria",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Idatzi testua hemen itzultzeko",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "itzuli",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Itzulitako testua hemen agertuko da",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Itzulitako testua hemen agertuko da",
+    "description": ""
+  }
+}

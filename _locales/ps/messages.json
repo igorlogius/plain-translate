@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": " ﻩړﺎﺑﮊ ﮏټﭼ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": " ﻱﺮﻟ ﺎﯿﺗړﺍ ﻪﺗ ﯤﺯﺎﺟﺍ ﻩږﻟﺮﺗږﻟ ﻩﺭﺎﭙﻟ ﯤړﺎﺑﮊ ﻦﺘﻣ ﻱﻮﺷ ﻞﮐﺎټ ﺩ ﯥﭼ ﻥﻭډﺍ ﯤړﺎﺑﮊ ﺩ",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": " ﺉړﮐ ﻪﻨﻧﺩ ﻦﺘﻣ ﻩﺭﺎﭙﻟ ﯤړﺎﺑﮊ ﺩ ﻪﺘﻟﺩ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": " ﻩړﺎﺑﮊ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": " ﻲﺷ ﻩﺭﺎﮑښ ﻪﺘﻟﺩ ﻪﺑ ﻦﺘﻣ ﯼﻮﺷ ﻝړﺎﺑﮊ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": " ﻲﺷ ﻩﺭﺎﮑښ ﻪﺘﻟﺩ ﻪﺑ ﻦﺘﻣ ﯼﻮﺷ ﻝړﺎﺑﮊ",
+    "description": ""
+  }
+}

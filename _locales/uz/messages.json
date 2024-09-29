@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Tez tarjima",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Tanlangan matnni tarjima qilish uchun minimal ruxsatlarni talab qiluvchi tarjima qoʻshimchasi",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Bu yerga tarjima qilish uchun matnni kiriting",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "ga tarjima qiling",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Tarjima qilingan matn shu yerda paydo bo'ladi",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Tarjima qilingan matn shu yerda paydo bo'ladi",
+    "description": ""
+  }
+}

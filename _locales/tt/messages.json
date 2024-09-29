@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Тиз тәрҗемә итү",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Сайланган текстны тәрҗемә итү өчен минималь рөхсәт таләп иткән тәрҗемә адон",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Монда тәрҗемә итү өчен текст кертегез",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "тәрҗемә итү",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Тәрҗемә ителгән текст монда барлыкка киләчәк",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Тәрҗемә ителгән текст монда барлыкка киләчәк",
+    "description": ""
+  }
+}

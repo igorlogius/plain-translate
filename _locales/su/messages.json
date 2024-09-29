@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Tarjamah Gancang",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addon tarjamahan anu peryogi idin minimal pikeun tarjamahan téks anu dipilih",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Lebetkeun téks pikeun ditarjamahkeun di dieu",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "narjamahkeun kana",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Téks anu ditarjamahkeun bakal muncul di dieu",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Téks anu ditarjamahkeun bakal muncul di dieu",
+    "description": ""
+  }
+}

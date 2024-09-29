@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": " ﻮﻤﺟﺮﺗ ﺰﻴﺗ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": " ﻲﻫﺁ ﺕﺭﻭﺮﺿ ﻲﺟ ﻦﺗﺯﺎﺟﺍ ٽﻬﮔ ۾ ٽﻬﮔ ءِﻻ﻿ ﻲﻤﺟﺮﺗ ﻲﺟ ﻦﺘﻣ ﻞﻳڊﻧﻮﭼ ﻮڪﻴﺟ ﻮﻓﺎﺿﺍ ﻮﻤﺟﺮﺗ",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": " ﻮﻳﺮڪ ﻞﺧﺍﺩ ﻦﺘﻣ ءِﻻ﻿ ﮠﺮڪ ﻮﻤﺟﺮﺗ ﻲﺘﻫ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": " ﻮﻤﺟﺮﺗ ۾",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": " ﻭﺪﻨﻴﭤ ﺮﻫﺎﻇ ﻲﺘﻫ ﻦﺘﻣ ﻞﻴﭤ ﻮﻤﺟﺮﺗ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": " ﻭﺪﻨﻴﭤ ﺮﻫﺎﻇ ﻲﺘﻫ ﻦﺘﻣ ﻞﻴﭤ ﻮﻤﺟﺮﺗ",
+    "description": ""
+  }
+}

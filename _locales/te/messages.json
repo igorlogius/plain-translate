@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "వేగవంతమైన అనువాదం",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ఎంచుకున్న టెక్స్ట్ యొక్క అనువాదానికి కనీస అనుమతులు అవసరమయ్యే అనువాద యాడ్ఆన్",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "ఇక్కడ అనువదించడానికి వచనాన్ని నమోదు చేయండి",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "అనువదించండి",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "అనువదించిన వచనం ఇక్కడ కనిపిస్తుంది",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "అనువదించిన వచనం ఇక్కడ కనిపిస్తుంది",
+    "description": ""
+  }
+}

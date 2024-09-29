@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Тиҙ тәржемә",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Һайланма тексты тәржемә итеү өсөн минималь рөхсәт талап иткән тәржемә аддоны",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Бында тәржемә итер өсөн тексты индерегеҙ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "тәржемә",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Тәржемә ителгән текст бында барлыҡҡа киләсәк",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Тәржемә ителгән текст бында барлыҡҡа киләсәк",
+    "description": ""
+  }
+}

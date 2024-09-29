@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Përkthim i shpejtë",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Shtesë përkthimi që kërkon leje minimale për përkthimin e tekstit të zgjedhur",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Fut tekstin për ta përkthyer këtu",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "përkthehet në",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Teksti i përkthyer do të shfaqet këtu",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Teksti i përkthyer do të shfaqet këtu",
+    "description": ""
+  }
+}

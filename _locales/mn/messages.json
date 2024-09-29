@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Шуурхай орчуулга",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Сонгосон текстийг орчуулахад хамгийн бага зөвшөөрөл шаарддаг орчуулгын нэмэлт хэрэгсэл",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Энд орчуулах текстээ оруулна уу",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "руу орчуулах",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Орчуулсан текст энд харагдах болно",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Орчуулсан текст энд харагдах болно",
+    "description": ""
+  }
+}

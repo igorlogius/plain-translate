@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Tafsiri Haraka",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kiongezeo cha tafsiri ambacho kinahitaji ruhusa chache kwa tafsiri ya maandishi yaliyochaguliwa",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Weka maandishi ili kutafsiri hapa",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "kutafsiri kwa",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Maandishi yaliyotafsiriwa yataonekana hapa",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Maandishi yaliyotafsiriwa yataonekana hapa",
+    "description": ""
+  }
+}

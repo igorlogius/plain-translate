@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ઝડપી અનુવાદ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "અનુવાદ એડઓન કે જેને પસંદ કરેલ ટેક્સ્ટના અનુવાદ માટે ન્યૂનતમ પરવાનગીઓની જરૂર છે",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "અહીં અનુવાદ કરવા માટે ટેક્સ્ટ દાખલ કરો",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "માં અનુવાદ કરો",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "અનુવાદિત ટેક્સ્ટ અહીં દેખાશે",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "અનુવાદિત ટેક્સ્ટ અહીં દેખાશે",
+    "description": ""
+  }
+}

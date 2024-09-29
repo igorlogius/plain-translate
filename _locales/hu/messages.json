@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Gyors fordítás",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Fordítási kiegészítő, amely minimális engedélyeket igényel a kiválasztott szöveg fordításához",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Írja be ide a fordítandó szöveget",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "fordítani",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Itt fog megjelenni a lefordított szöveg",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Itt fog megjelenni a lefordított szöveg",
+    "description": ""
+  }
+}

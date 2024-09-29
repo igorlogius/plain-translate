@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "দ্রুত অনুবাদ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "অনুবাদ অ্যাডঅন যার জন্য নির্বাচিত পাঠ্যের অনুবাদের জন্য ন্যূনতম অনুমতি প্রয়োজন",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "এখানে অনুবাদ করতে পাঠ্য লিখুন",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "অনুবাদ করুন",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "অনুবাদিত পাঠ্য এখানে প্রদর্শিত হবে",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "অনুবাদিত পাঠ্য এখানে প্রদর্শিত হবে",
+    "description": ""
+  }
+}

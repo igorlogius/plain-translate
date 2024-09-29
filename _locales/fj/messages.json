@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Vakadewataki Vakatotolo",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addon ni vakadewa ka gadrevi kina na veivakadonui lailai me baleta na vakadewa ni itukutuku digitaki",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Vakacuruma na itukutuku me vakadewataki eke",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "vakadewataka ki na",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Ena basika eke na itukutuku vakadewataki",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Ena basika eke na itukutuku vakadewataki",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Terjemahan Cepat",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addon terjemahan yang memerlukan izin minimal untuk terjemahan teks yang dipilih",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Masukkan teks untuk diterjemahkan di sini",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "terjemahkan ke",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Teks yang diterjemahkan akan muncul di sini",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Teks yang diterjemahkan akan muncul di sini",
+    "description": ""
+  }
+}

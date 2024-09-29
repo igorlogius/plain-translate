@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "तेज़ अनुवाद",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "अनुवाद ऐडऑन जिसके लिए चयनित पाठ के अनुवाद के लिए न्यूनतम अनुमति की आवश्यकता होती है",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "यहां अनुवाद करने के लिए टेक्स्ट दर्ज करें",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "अनुवाद करने के लिए",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "अनूदित पाठ यहां दिखाई देगा",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "अनूदित पाठ यहां दिखाई देगा",
+    "description": ""
+  }
+}

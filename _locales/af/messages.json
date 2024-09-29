@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Vinnige Vertaal",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Vertaling addon wat minimale toestemmings vir vertaling van geselekteerde teks vereis",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Voer teks in om hier te vertaal",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "vertaal na",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Vertaalde teks sal hier verskyn",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Vertaalde teks sal hier verskyn",
+    "description": ""
+  }
+}

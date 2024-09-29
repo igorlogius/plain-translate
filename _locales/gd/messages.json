@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Eadar-theangachadh Luath",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addon eadar-theangachaidh a dh ’fheumas glè bheag de cheadan airson eadar-theangachadh teacsa taghte",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Cuir a-steach teacsa airson eadar-theangachadh an seo",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "eadar-theangachadh gu",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Nochdaidh teacsa eadar-theangaichte an seo",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Nochdaidh teacsa eadar-theangaichte an seo",
+    "description": ""
+  }
+}

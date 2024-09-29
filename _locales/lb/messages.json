@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Schnell Iwwersetzer",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Iwwersetzung Addon déi minimal Permissiounen erfuerdert fir Iwwersetzung vum gewielten Text",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Gitt Text hei fir ze iwwersetzen",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "iwwersetzen an",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Iwwersat Text wäert hei schéngen",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Iwwersat Text wäert hei schéngen",
+    "description": ""
+  }
+}

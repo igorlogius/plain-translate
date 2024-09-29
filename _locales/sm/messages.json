@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Fa'aliliu vave",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Fa'aopoopo fa'aliliuga e mana'omia sina fa'atagaga mo le fa'aliliuga o tusitusiga filifilia",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Tu'u tusitusiga e fa'aliliu iinei",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "faaliliu i",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "O le a fa'aalia iinei tusitusiga fa'aliliu",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "O le a fa'aalia iinei tusitusiga fa'aliliu",
+    "description": ""
+  }
+}

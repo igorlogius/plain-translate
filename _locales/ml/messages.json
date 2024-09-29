@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "വേഗത്തിലുള്ള വിവർത്തനം",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "തിരഞ്ഞെടുത്ത വാചകത്തിൻ്റെ വിവർത്തനത്തിന് കുറഞ്ഞ അനുമതികൾ ആവശ്യമുള്ള വിവർത്തന ആഡ്ഓൺ",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "ഇവിടെ വിവർത്തനം ചെയ്യാൻ ടെക്സ്റ്റ് നൽകുക",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "വിവർത്തനം ചെയ്യുക",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "വിവർത്തനം ചെയ്ത വാചകം ഇവിടെ ദൃശ്യമാകും",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "വിവർത്തനം ചെയ്ത വാചകം ഇവിടെ ദൃശ്യമാകും",
+    "description": ""
+  }
+}

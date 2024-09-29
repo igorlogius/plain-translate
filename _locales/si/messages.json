@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "වේගවත් පරිවර්තනය",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "තෝරාගත් පෙළ පරිවර්තනය සඳහා අවම අවසර අවශ්u200dය පරිවර්තන ඇඩෝනය",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "මෙහි පරිවර්තනය කිරීමට පෙළ ඇතුළත් කරන්න",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "වෙත පරිවර්තනය කරන්න",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "පරිවර්තනය කළ පෙළ මෙහි දිස්වනු ඇත",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "පරිවර්තනය කළ පෙළ මෙහි දිස්වනු ඇත",
+    "description": ""
+  }
+}

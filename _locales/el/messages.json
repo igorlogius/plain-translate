@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Γρήγορη μετάφραση",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Πρόσθετο μετάφρασης που απαιτεί ελάχιστα δικαιώματα για μετάφραση επιλεγμένου κειμένου",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Εισαγάγετε κείμενο για μετάφραση εδώ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "μετάφραση σε",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Το μεταφρασμένο κείμενο θα εμφανιστεί εδώ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Το μεταφρασμένο κείμενο θα εμφανιστεί εδώ",
+    "description": ""
+  }
+}

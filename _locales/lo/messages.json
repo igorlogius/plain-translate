@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ແປໄວ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ການແປພາສາ addon ທີ່ຕ້ອງການການອະນຸຍາດຫນ້ອຍທີ່ສຸດສໍາລັບການແປຂໍ້ຄວາມທີ່ເລືອກ",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "ໃສ່ຂໍ້ຄວາມເພື່ອແປທີ່ນີ້",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "ແປເປັນ",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "ຂໍ້ຄວາມທີ່ແປແລ້ວຈະປາກົດຢູ່ບ່ອນນີ້",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "ຂໍ້ຄວາມທີ່ແປແລ້ວຈະປາກົດຢູ່ບ່ອນນີ້",
+    "description": ""
+  }
+}

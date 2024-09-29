@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Hraðþýðing",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Þýðingarviðbót sem krefst lágmarksheimilda fyrir þýðingar á völdum texta",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Sláðu inn texta til að þýða hér",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "þýða á",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Þýddur texti mun birtast hér",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Þýddur texti mun birtast hér",
+    "description": ""
+  }
+}

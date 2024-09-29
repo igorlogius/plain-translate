@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Mabilis na Pagsasalin",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Addon ng pagsasalin na nangangailangan ng kaunting mga pahintulot para sa pagsasalin ng napiling teksto",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Maglagay ng text na isasalin dito",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "isalin sa",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Lalabas dito ang isinaling teksto",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Lalabas dito ang isinaling teksto",
+    "description": ""
+  }
+}

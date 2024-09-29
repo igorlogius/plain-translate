@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Dịch nhanh",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Tiện ích dịch yêu cầu quyền tối thiểu để dịch văn bản đã chọn",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Nhập văn bản để dịch ở đây",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "dịch sang",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Văn bản dịch sẽ xuất hiện ở đây",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Văn bản dịch sẽ xuất hiện ở đây",
+    "description": ""
+  }
+}

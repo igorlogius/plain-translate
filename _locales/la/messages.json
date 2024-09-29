@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Fast Translate",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Translatione addo quae requirit minimas facultates pro translatione textus delecti",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Intra textum ut hic translate",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "translate to",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Textus hic translatus patebit",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Textus hic translatus patebit",
+    "description": ""
+  }
+}

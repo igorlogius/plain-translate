@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Fetolela kapele",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kenyelletso ea phetolelo e hlokang tumello e fokolang bakeng sa phetolelo ea mongolo o khethiloeng",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Kenya mongolo ho fetolela mona",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "fetolela ho",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Mongolo o fetoletsoeng o tla hlaha mona",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Mongolo o fetoletsoeng o tla hlaha mona",
+    "description": ""
+  }
+}

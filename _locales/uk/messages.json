@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Швидкий переклад",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Аддон для перекладу, який вимагає мінімальних прав для перекладу виділеного тексту",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Введіть текст для перекладу тут",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "перекладати на",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Тут з’явиться перекладений текст",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Тут з’явиться перекладений текст",
+    "description": ""
+  }
+}

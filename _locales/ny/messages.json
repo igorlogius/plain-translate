@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kumasulira Mwachangu",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Zowonjezera zomasulira zomwe zimafuna chilolezo chochepa kuti zimasulire mawu osankhidwa",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Lowetsani mawu omasulira apa",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "kumasulira ku",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Mawu otanthauziridwa awoneka apa",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Mawu otanthauziridwa awoneka apa",
+    "description": ""
+  }
+}

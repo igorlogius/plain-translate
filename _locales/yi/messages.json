@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": " ץעז לענש",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "טסקעט ןבילקעגסיוא ןופ גנוצעזרעביא ראַפֿ זנאַשימרעפּ לאַמינימ זרעייווקיר סאָוו ןאָדדאַ ",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": " אָד ןצעזרעביא וצ טסקעט ןיַיראַ",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": " וצ ןצעזרעביא",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": " אָד ןעניַישרעד טעוו טסקעט טצעזעגרעביא",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": " אָד ןעניַישרעד טעוו טסקעט טצעזעגרעביא",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Fast Translate",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Oersette addon dy't minimale tagongsrjochten fereasket foar oersetting fan selektearre tekst",
+    "description": ""
+  },
+  "popup_txta_in_placeholder": {
+    "message": "Fier hjir tekst yn om oer te setten",
+    "description": ""
+  },
+  "popup_selected_language_label": {
+    "message": "oersette nei",
+    "description": ""
+  },
+  "popup_txta_out_placeholder": {
+    "message": "Oersette tekst sil hjir ferskine",
+    "description": ""
+  },
+  "popup_txta_out_placeholder_wip": {
+    "message": "Oersette tekst sil hjir ferskine",
+    "description": ""
+  }
+}

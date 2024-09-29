@@ -6,7 +6,7 @@ Translation addon that requires minimal permissions that allows translation of s
 
 <b>Short Demo Video</b>
 
-tbd.
+https://github.com/user-attachments/assets/4eb51001-4c35-43f8-a195-8bb873a9610b
 
 <b>Usage:</b>
 <ol>

@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "高速翻訳",
+    "message": "平文翻訳",
     "description": ""
   },
   "addonDesc": {
-    "message": "選択したテキストの翻訳に最小限の権限を必要とする翻訳アドオン",
+    "message": "選択したテキストの翻訳に最小限の権限を必要とするシンプルな翻訳アドオン",
     "description": ""
   },
   "popup_txta_in_placeholder": {

@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Szybkie tłumaczenie",
+    "message": "Zwykłe tłumaczenie",
     "description": ""
   },
   "addonDesc": {
-    "message": "Dodatek do tłumaczenia, który wymaga minimalnych uprawnień do tłumaczenia wybranego tekstu",
+    "message": "Prosty dodatek do tłumaczenia, który wymaga minimalnych uprawnień do tłumaczenia wybranego tekstu",
     "description": ""
   },
   "popup_txta_in_placeholder": {

@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Greitas vertimas",
+    "message": "Paprastas vertimas",
     "description": ""
   },
   "addonDesc": {
-    "message": "Vertimo priedas, kuriam reikia minimalių leidimų versti pasirinktą tekstą",
+    "message": "Paprastas vertimo priedas, kuriam reikia minimalių leidimų versti pasirinktą tekstą",
     "description": ""
   },
   "popup_txta_in_placeholder": {

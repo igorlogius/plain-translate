@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Nopea käännös",
+    "message": "Pelkkä käännös",
     "description": ""
   },
   "addonDesc": {
-    "message": "Käännöslisäosa, joka vaatii vähimmäisoikeudet valitun tekstin kääntämiseen",
+    "message": "Yksinkertainen käännöslisäosa, joka vaatii vähimmäisoikeudet valitun tekstin kääntämiseen",
     "description": ""
   },
   "popup_txta_in_placeholder": {

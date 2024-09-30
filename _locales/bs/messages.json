@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Fast Translate",
+    "message": "Običan prevod",
     "description": ""
   },
   "addonDesc": {
-    "message": "Dodatak za prevođenje koji zahtijeva minimalne dozvole za prijevod odabranog teksta",
+    "message": "Jednostavan dodatak za prijevod koji zahtijeva minimalne dozvole za prijevod odabranog teksta",
     "description": ""
   },
   "popup_txta_in_placeholder": {

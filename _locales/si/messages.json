@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "වේගවත් පරිවර්තනය",
+    "message": "සරල පරිවර්තනය",
     "description": ""
   },
   "addonDesc": {
-    "message": "තෝරාගත් පෙළ පරිවර්තනය සඳහා අවම අවසර අවශ්u200dය පරිවර්තන ඇඩෝනය",
+    "message": "තෝරාගත් පෙළ පරිවර්තනය සඳහා අවම අවසරයන් අවශ්u200dය සරල පරිවර්තන ඇඩෝනය",
     "description": ""
   },
   "popup_txta_in_placeholder": {

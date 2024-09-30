@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Terjemah Cepat",
+    "message": "Terjemah Biasa",
     "description": ""
   },
   "addonDesc": {
-    "message": "Tambahan terjemahan yang memerlukan kebenaran minimum untuk terjemahan teks yang dipilih",
+    "message": "Tambahan terjemahan mudah yang memerlukan kebenaran minimum untuk terjemahan teks yang dipilih",
     "description": ""
   },
   "popup_txta_in_placeholder": {

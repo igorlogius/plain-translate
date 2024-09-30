@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Sürətli Tərcümə",
+    "message": "Düz Tərcümə",
     "description": ""
   },
   "addonDesc": {
-    "message": "Seçilmiş mətnin tərcüməsi üçün minimal icazə tələb edən tərcümə əlavəsi",
+    "message": "Seçilmiş mətnin tərcüməsi üçün minimal icazə tələb edən sadə tərcümə əlavəsi",
     "description": ""
   },
   "popup_txta_in_placeholder": {

@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Snabböversättning",
+    "message": "Vanlig översättning",
     "description": ""
   },
   "addonDesc": {
-    "message": "Översättningstillägg som kräver minimala behörigheter för översättning av vald text",
+    "message": "Enkelt översättningstillägg som kräver minimala behörigheter för översättning av vald text",
     "description": ""
   },
   "popup_txta_in_placeholder": {

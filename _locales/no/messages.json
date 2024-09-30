@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Rask oversettelse",
+    "message": "Vanlig oversettelse",
     "description": ""
   },
   "addonDesc": {
-    "message": "Oversettelsestillegg som krever minimale tillatelser for oversettelse av valgt tekst",
+    "message": "Enkelt oversettelsestillegg som krever minimale tillatelser for oversettelse av valgt tekst",
     "description": ""
   },
   "popup_txta_in_placeholder": {

@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Dịch nhanh",
+    "message": "Dịch đơn giản",
     "description": ""
   },
   "addonDesc": {
-    "message": "Tiện ích dịch yêu cầu quyền tối thiểu để dịch văn bản đã chọn",
+    "message": "Tiện ích dịch thuật đơn giản yêu cầu quyền tối thiểu để dịch văn bản đã chọn",
     "description": ""
   },
   "popup_txta_in_placeholder": {

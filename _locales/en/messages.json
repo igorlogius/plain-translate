@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Fast Translate",
+    "message": "Plain Translate",
     "description": ""
   },
   "addonDesc": {
-    "message": "Translation addon that requires minimal permissions for translation of selected text",
+    "message": "Simple translation addon that requires minimal permissions for translation of selected text",
     "description": ""
   },
   "popup_txta_in_placeholder": {

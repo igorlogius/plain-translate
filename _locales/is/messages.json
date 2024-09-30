@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Hraðþýðing",
+    "message": "Einföld þýðing",
     "description": ""
   },
   "addonDesc": {
-    "message": "Þýðingarviðbót sem krefst lágmarksheimilda fyrir þýðingar á völdum texta",
+    "message": "Einföld þýðingarviðbót sem krefst lágmarksheimilda fyrir þýðingar á völdum texta",
     "description": ""
   },
   "popup_txta_in_placeholder": {

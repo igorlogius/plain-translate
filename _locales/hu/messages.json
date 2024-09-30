@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Gyors fordítás",
+    "message": "Sima fordítás",
     "description": ""
   },
   "addonDesc": {
-    "message": "Fordítási kiegészítő, amely minimális engedélyeket igényel a kiválasztott szöveg fordításához",
+    "message": "Egyszerű fordítási kiegészítő, amely minimális engedélyeket igényel a kiválasztott szöveg fordításához",
     "description": ""
   },
   "popup_txta_in_placeholder": {

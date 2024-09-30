@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Traduzione veloce",
+    "message": "Traduzione semplice",
     "description": ""
   },
   "addonDesc": {
-    "message": "Componente aggiuntivo di traduzione che richiede autorizzazioni minime per la traduzione del testo selezionato",
+    "message": "Componente aggiuntivo di traduzione semplice che richiede autorizzazioni minime per la traduzione del testo selezionato",
     "description": ""
   },
   "popup_txta_in_placeholder": {

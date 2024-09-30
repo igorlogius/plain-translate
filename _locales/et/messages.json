@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Kiire tõlge",
+    "message": "Lihtne tõlge",
     "description": ""
   },
   "addonDesc": {
-    "message": "Tõlkelisand, mis nõuab valitud teksti tõlkimiseks minimaalseid õigusi",
+    "message": "Lihtne tõlkelisand, mis nõuab valitud teksti tõlkimiseks minimaalseid õigusi",
     "description": ""
   },
   "popup_txta_in_placeholder": {

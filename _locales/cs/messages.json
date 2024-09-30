@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Rychlý překlad",
+    "message": "Obyčejný překlad",
     "description": ""
   },
   "addonDesc": {
-    "message": "Překladový doplněk, který vyžaduje minimální oprávnění pro překlad vybraného textu",
+    "message": "Jednoduchý překladový doplněk, který vyžaduje minimální oprávnění pro překlad vybraného textu",
     "description": ""
   },
   "popup_txta_in_placeholder": {

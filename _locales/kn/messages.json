@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "ವೇಗದ ಅನುವಾದ",
+    "message": "ಸರಳ ಅನುವಾದ",
     "description": ""
   },
   "addonDesc": {
-    "message": "ಆಯ್ದ ಪಠ್ಯದ ಅನುವಾದಕ್ಕಾಗಿ ಕನಿಷ್ಠ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿರುವ ಅನುವಾದ ಆಡ್ಆನ್",
+    "message": "ಆಯ್ದ ಪಠ್ಯದ ಅನುವಾದಕ್ಕೆ ಕನಿಷ್ಠ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿರುವ ಸರಳ ಅನುವಾದ ಆಡ್ಆನ್",
     "description": ""
   },
   "popup_txta_in_placeholder": {

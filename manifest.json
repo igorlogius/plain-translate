@@ -12,12 +12,12 @@
   },
   "default_locale": "en",
   "description": "__MSG_addonDesc__",
-  "homepage_url": "https://github.com/igorlogius/fast-translate",
+  "homepage_url": "https://github.com/igorlogius/plain-translate",
   "icons": {
     "64": "icon.png"
   },
   "manifest_version": 2,
   "name": "__MSG_addonName__",
   "permissions": ["activeTab", "menus", "storage"],
-  "version": "2.1.5"
+  "version": "2.1.6"
 }

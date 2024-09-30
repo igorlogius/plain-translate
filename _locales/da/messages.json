@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Hurtig oversættelse",
+    "message": "Almindelig oversættelse",
     "description": ""
   },
   "addonDesc": {
-    "message": "Oversættelsestilføjelse, der kræver minimale tilladelser til oversættelse af valgt tekst",
+    "message": "Simpel oversættelsesaddon, der kræver minimale tilladelser til oversættelse af valgt tekst",
     "description": ""
   },
   "popup_txta_in_placeholder": {

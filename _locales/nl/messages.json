@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Snel vertalen",
+    "message": "Gewoon vertalen",
     "description": ""
   },
   "addonDesc": {
-    "message": "Vertaaladd-on die minimale machtigingen vereist voor de vertaling van geselecteerde tekst",
+    "message": "Eenvoudige vertaaladd-on die minimale machtigingen vereist voor de vertaling van geselecteerde tekst",
     "description": ""
   },
   "popup_txta_in_placeholder": {

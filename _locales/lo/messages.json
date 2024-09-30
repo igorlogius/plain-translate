@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "ແປໄວ",
+    "message": "ແປທຳມະດາ",
     "description": ""
   },
   "addonDesc": {
-    "message": "ການແປພາສາ addon ທີ່ຕ້ອງການການອະນຸຍາດຫນ້ອຍທີ່ສຸດສໍາລັບການແປຂໍ້ຄວາມທີ່ເລືອກ",
+    "message": "addon ການແປພາສາງ່າຍໆທີ່ຕ້ອງການການອະນຸຍາດຫນ້ອຍທີ່ສຸດສໍາລັບການແປຂໍ້ຄວາມທີ່ເລືອກ",
     "description": ""
   },
   "popup_txta_in_placeholder": {

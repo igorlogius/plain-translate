@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Cepet Translate",
+    "message": "Plain Translate",
     "description": ""
   },
   "addonDesc": {
-    "message": "Addon terjemahan sing mbutuhake ijin minimal kanggo terjemahan teks sing dipilih",
+    "message": "Addon terjemahan prasaja sing mbutuhake ijin minimal kanggo terjemahan teks sing dipilih",
     "description": ""
   },
   "popup_txta_in_placeholder": {

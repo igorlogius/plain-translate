@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Hızlı Çeviri",
+    "message": "Düz Çeviri",
     "description": ""
   },
   "addonDesc": {
-    "message": "Seçilen metnin çevirisi için minimum izin gerektiren çeviri eklentisi",
+    "message": "Seçilen metnin çevirisi için minimum izin gerektiren basit çeviri eklentisi",
     "description": ""
   },
   "popup_txta_in_placeholder": {

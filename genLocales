@@ -7,8 +7,8 @@ while read line;do
 	echo $line
 	mkdir -p ./_locales/$line 2>/dev/null
 
-	addonName=$(trans -brief -from en -to "$line" "Fast Translate")
-	addonDesc=$(trans -brief -from en -to $line "Translation addon that requires minimal permissions for translation of selected text")
+	addonName=$(trans -brief -from en -to "$line" "Plain Translate")
+	addonDesc=$(trans -brief -from en -to $line "Simple translation addon that requires minimal permissions for translation of selected text")
 
 	popup_txta_in_placeholder=$(trans -brief -from en -to $line "Enter text to translate here")
 	popup_selected_language_label=$(trans -brief -from en -to $line "translate to")

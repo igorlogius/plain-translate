@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Tradução rápida",
+    "message": "Tradução Simples",
     "description": ""
   },
   "addonDesc": {
-    "message": "Complemento de tradução que requer permissões mínimas para tradução do texto selecionado",
+    "message": "Complemento de tradução simples que requer permissões mínimas para tradução do texto selecionado",
     "description": ""
   },
   "popup_txta_in_placeholder": {

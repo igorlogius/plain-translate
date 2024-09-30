@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Hitro prevajanje",
+    "message": "Navaden prevod",
     "description": ""
   },
   "addonDesc": {
-    "message": "Prevajalski dodatek, ki zahteva minimalna dovoljenja za prevod izbranega besedila",
+    "message": "Preprost prevajalski dodatek, ki zahteva minimalna dovoljenja za prevod izbranega besedila",
     "description": ""
   },
   "popup_txta_in_placeholder": {

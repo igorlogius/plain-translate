@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Ātrais tulkojums",
+    "message": "Vienkāršs tulkojums",
     "description": ""
   },
   "addonDesc": {
-    "message": "Tulkošanas papildinājums, kam nepieciešamas minimālas atļaujas atlasītā teksta tulkošanai",
+    "message": "Vienkāršs tulkošanas papildinājums, kam nepieciešamas minimālas atļaujas atlasītā teksta tulkošanai",
     "description": ""
   },
   "popup_txta_in_placeholder": {

@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Tarjamah Gancang",
+    "message": "Tarjamah Biasa",
     "description": ""
   },
   "addonDesc": {
-    "message": "Addon tarjamahan anu peryogi idin minimal pikeun tarjamahan téks anu dipilih",
+    "message": "Addon tarjamahan saderhana anu meryogikeun idin minimal pikeun tarjamahan téks anu dipilih",
     "description": ""
   },
   "popup_txta_in_placeholder": {

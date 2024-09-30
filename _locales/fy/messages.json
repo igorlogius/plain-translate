@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Fast Translate",
+    "message": "Plain Translate",
     "description": ""
   },
   "addonDesc": {
-    "message": "Oersette addon dy't minimale tagongsrjochten fereasket foar oersetting fan selektearre tekst",
+    "message": "Ienfâldige oersetting addon dy't minimale tagongsrjochten fereasket foar oersetting fan selekteare tekst",
     "description": ""
   },
   "popup_txta_in_placeholder": {

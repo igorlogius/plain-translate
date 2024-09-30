@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Përkthim i shpejtë",
+    "message": "Përkthim i thjeshtë",
     "description": ""
   },
   "addonDesc": {
-    "message": "Shtesë përkthimi që kërkon leje minimale për përkthimin e tekstit të zgjedhur",
+    "message": "Shtesë e thjeshtë përkthimi që kërkon leje minimale për përkthimin e tekstit të zgjedhur",
     "description": ""
   },
   "popup_txta_in_placeholder": {

@@ -19,5 +19,5 @@
   "manifest_version": 2,
   "name": "__MSG_addonName__",
   "permissions": ["activeTab", "menus", "storage"],
-  "version": "2.1.6"
+  "version": "2.1.7"
 }

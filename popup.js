@@ -10,6 +10,26 @@ function textAreaAdjust(element) {
 let lastText = "";
 let lastLang = "";
 
+// todo: this might not work for all languages ... but lets go with it for now
+async function segmented_google_translate(
+  text_to_translate,
+  target_language_code,
+) {
+  out = "";
+  const parts = text_to_translate.split(".");
+  for (let i = 0; i < parts.length; i++) {
+    let part_ttt = parts[i].trim();
+
+    if (part_ttt !== "") {
+      out = out + (await google_translate(part_ttt, target_language_code));
+    }
+    if (i !== parts.length - 1) {
+      out = out + ". ";
+    }
+  }
+  return out.replace(/\s+/g, " ");
+}
+
 async function google_translate(text_to_translate, target_language_code) {
   let tmp = "";
   try {
@@ -43,7 +63,6 @@ async function doTranslate() {
   // get reduced input from textarea
   const text = docEls.txta_in.value.replace(/\s+/g, " ").trim();
 
-
   // empty input => empty output
   if (text === "") {
     docEls.txta_out.value = "";
@@ -57,12 +76,12 @@ async function doTranslate() {
     return;
   }
 
-    // something changed
+  // something changed
 
-    // clear ouptut (makes wip indicator visible)
+  // clear ouptut (makes wip indicator visible)
   docEls.txta_out.value = "";
 
-    // clear wip indicator
+  // clear wip indicator
   docEls.txta_out.setAttribute(
     "placeholder",
     browser.i18n.getMessage("popup_txta_out_placeholder_wip"),
@@ -72,8 +91,12 @@ async function doTranslate() {
   lastText = text;
   lastLang = docEls.selected_language.value;
 
+  docEls.txta_out.setAttribute("disabled", true);
+  selected_language.setAttribute("disabled", true);
   // do translate
-  const tmp = await google_translate(text, selected_language.value);
+  const tmp = await segmented_google_translate(text, selected_language.value);
+  docEls.txta_out.removeAttribute("disabled");
+  selected_language.removeAttribute("disabled");
 
   // update output
   docEls.txta_out.value = tmp;
